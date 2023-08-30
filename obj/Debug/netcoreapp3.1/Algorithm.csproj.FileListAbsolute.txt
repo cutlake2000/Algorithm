@@ -1,0 +1,28 @@
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.deps.json
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.json
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.dev.json
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.AssemblyReference.cache
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfoInputs.cache
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfo.cs
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/penguinkim/DobbyIsFree/Sparta/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.genruntimeconfig.cache
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.deps.json
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.json
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.dev.json
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.AssemblyReference.cache
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfoInputs.cache
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfo.cs
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/penguinkim/DobbyIsFree/Sparta Coding Club/C#/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.genruntimeconfig.cache
