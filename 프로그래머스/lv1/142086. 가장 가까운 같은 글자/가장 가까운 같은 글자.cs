@@ -9,7 +9,7 @@ public class Solution
         int index = s.Length;
         int[] answer = new int[index];
         List<char> list = new List<char>();
-
+        
         for (int i = 0; i < index; i++)
         {
             if (!list.Contains(s[i]))
