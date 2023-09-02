@@ -1,6 +1,6 @@
-# [unrated] 가장 가까운 같은 글자 - 142086 
+# [level 1] 가장 가까운 같은 글자 - 142086
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
 
 ### 성능 요약
 
@@ -72,6 +72,5 @@ Empty
 
 <p>입출력 예 #2<br>
 설명 생략</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
