@@ -6,6 +6,8 @@ public class Solution
     {
         int answer = 0;
 
+        bool isMatch = false;
+
         char matchChar = ' ';
         int[] matchCount = new int[2];
 
@@ -13,9 +15,11 @@ public class Solution
 
         for (int i = 0; i < sIndex; i++)
         {
-            if (matchChar == ' ')
+            if (isMatch == false)
             {
                 matchChar = s[i];
+
+                isMatch = true;
             }
 
             if (s[i] == matchChar)
@@ -29,17 +33,9 @@ public class Solution
 
             if (matchCount[0] == matchCount[1])
             {
-                matchChar = ' ';
+                isMatch = false;
                 matchCount[0] = matchCount[1] = 0;
                 answer++;
-            }
-            else
-            {
-                if (i == sIndex - 1)
-                {
-                    answer++;
-                    break;
-                }
             }
         }
 
