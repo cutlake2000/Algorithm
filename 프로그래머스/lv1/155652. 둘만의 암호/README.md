@@ -1,6 +1,6 @@
-# [unrated] 둘만의 암호 - 155652 
+# [level 1] 둘만의 암호 - 155652
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 
 ### 성능 요약
 
@@ -68,6 +68,5 @@
 
 <p>입출력 예 #1<br>
 본문 내용과 일치합니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
