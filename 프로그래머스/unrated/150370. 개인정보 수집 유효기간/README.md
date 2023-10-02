@@ -1,6 +1,6 @@
-# [unrated] 개인정보 수집 유효기간 - 150370 
+# [level 1] 개인정보 수집 유효기간 - 150370
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150370#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150370#qna)
 
 ### 성능 요약
 
@@ -210,6 +210,5 @@
 <li>네 번째 개인정보는 D약관에 의해 2019년 11월 28일까지 보관 가능하며, 유효기간이 지났으므로 파기해야 할 개인정보입니다.</li>
 <li>다섯 번째 개인정보는 Z약관에 의해 2019년 3월 27일까지 보관 가능하며, 유효기간이 지났으므로 파기해야 할 개인정보입니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
