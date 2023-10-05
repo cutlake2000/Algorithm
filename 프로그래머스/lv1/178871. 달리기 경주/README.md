@@ -1,6 +1,6 @@
-# [unrated] 달리기 경주 - 178871 
+# [level 1] 달리기 경주 - 178871
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/178871#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/178871#qna)
 
 ### 성능 요약
 
@@ -65,6 +65,5 @@
 <p>입출력 예 #1</p>
 
 <p>4등인 "kai" 선수가 2번 추월하여 2등이 되고 앞서 3등, 2등인 "poe", "soe" 선수는 4등, 3등이 됩니다. 5등인 "mine" 선수가 2번 추월하여 4등, 3등인 "poe", "soe" 선수가 5등, 4등이 되고 경주가 끝납니다. 1등부터 배열에 담으면 ["mumu", "kai", "mine", "soe", "poe"]이 됩니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
