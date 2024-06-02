@@ -1,61 +1,43 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MX = 1000005;
-int Q[MX];
-int head, tail = 0;
-
-void push(int x){
-  Q[tail++] = x;
-}
-
-void pop(){
-  head++;
-}
-
-int front(){
-  return Q[head];
-}
-
-int back(){
-  return Q[tail - 1];
-}
-
 int main(){
   ios::sync_with_stdio(0);
   cin.tie(0);
 
-  int c;
-  cin >> c;
+  queue<int> Q;
 
-  while(c--){
-    string input;
-    cin >> input;
+  int r;
+  cin >> r;
 
-    if(input == "push"){
-      int input2;
-      cin >> input2;
-      push(input2);
+  while(r--){
+    string i1;
+    cin >> i1;
+
+    if (i1 == "push"){
+      int i2;
+      cin >> i2;
+      Q.push(i2);
     }
-    else if(input == "pop"){
-      if (tail != head){
-        cout << front() << "\n";
-        pop();
+    else if (i1 == "pop"){
+      if (!Q.empty()){
+        cout << Q.front() << "\n";
+        Q.pop();
       }
       else cout << -1 << "\n";
     }
-    else if(input == "size"){
-      cout << tail - head << "\n";
+    else if (i1 == "size"){
+      cout << Q.size() << "\n";
     }
-    else if(input == "empty"){
-      cout << (int) (tail == head) << "\n";
+    else if (i1 == "empty"){
+      cout << Q.empty() << "\n";
     }
-    else if(input == "front"){
-      if (tail != head) cout << front() << "\n";
+    else if (i1 == "front"){
+      if (!Q.empty()) cout << Q.front() << "\n";
       else cout << -1 << "\n";
     }
-    else if(input == "back"){
-      if (tail != head) cout << back() << "\n";
+    else if (i1 == "back"){
+      if (!Q.empty()) cout << Q.back() << "\n";
       else cout << -1 << "\n";
     }
   }
