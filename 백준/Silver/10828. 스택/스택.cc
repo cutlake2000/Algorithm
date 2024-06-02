@@ -1,53 +1,38 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MX = 1000005;
-int st[MX];
-int pos = 0;
-
-void Push(int x){
-  st[pos++] = x;
-}
-
-void Pop(){
-  pos--;
-}
-
-int Top(){
-  return st[pos - 1];
-}
-
 int main(){
   ios::sync_with_stdio(0);
   cin.tie(0);
   
-  int repeatCount;
-  cin >> repeatCount;
+  stack<int> s;
 
-  while(repeatCount--){
-    string command;
-    cin >> command;
+  int r;
+  cin >> r;
 
-    if(command == "push"){
-      int num;
-      cin >> num;
-      Push(num);
+  while(r--){
+    string input;
+    cin >> input;
+    if (input == "push"){
+      int input2;
+      cin >> input2;
+      s.push(input2);
     }
-    else if(command == "pop"){
-      if (pos > 0){
-        cout << Top() << "\n";
-        Pop();
+    else if (input == "pop"){
+      if (s.size() > 0){
+        cout << s.top() << "\n";
+        s.pop();
         }
       else cout << -1 << "\n";
     }
-    else if(command == "size"){
-      cout << pos << "\n";
+    else if (input == "size"){
+      cout << s.size() << "\n";
     }
-    else if(command == "empty"){
-      cout << (int)(pos == 0) << "\n";
+    else if (input == "empty"){
+      cout << (int) (s.size() == 0) << "\n";
     }
-    else if(command == "top"){
-      if (pos > 0) cout << Top() << "\n";
+    else if (input == "top"){
+      if (s.size() > 0) cout << s.top() << "\n";
       else cout << -1 << "\n";
     }
   }
